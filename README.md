@@ -1,4 +1,4 @@
 # itsmydemo
 This is my first repository.
 <br>
-Author - Mukta gujar 
+Author - Om gujar 
